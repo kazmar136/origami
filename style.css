@@ -1,0 +1,17 @@
+h1 {
+    color:aquamarine;
+}
+.dicription{
+    color: ivory;
+    display:-moz-inline-stack;
+    justify-content:stretch;
+}
+
+
+body{
+    background-color:darkcyan;
+    border-style: #155094;
+    font-style: italic;
+    display:-ms-flexbox;
+    justify-content:space-evenly;
+}
